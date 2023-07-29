@@ -1,5 +1,5 @@
 <script>
-	let toplamSaniye = 10;
+	let toplamSaniye = 5 * 60;
 
 	let dakika = Math.floor(toplamSaniye / 60);
 	let saniye = toplamSaniye % 60;
