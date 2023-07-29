@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex flex-col gap-20 justify-center items-center h-full">
-	<p class="text-7xl font-extrabold italic">Merhaba</p>
+	<h1 class="text-7xl font-extrabold italic">Merhaba</h1>
 	<LightSwitch />
 	<a href="/chess">Satranç oynamak için tıklayın.</a>
 </div>
