@@ -29,7 +29,7 @@
 
 <div class="flex flex-col gap-20 justify-center items-center h-full">
 	{#if toplamSaniye === 0}
-		<h1 class="text-6xl text-red-600">SÜREN BİTTİ OÇ</h1>
+		<h1 class="text-6xl text-red-600">SÜRE BİTTİ</h1>
 	{/if}
 
 	<p class="text-9xl">{sıfırEkleyen(dakika)}:{sıfırEkleyen(saniye)}</p>
